@@ -1,0 +1,15 @@
+{
+    "name": "root/lesson2",
+    "description": "homework2",
+    "require": {
+        "twig/twig": "1.26.1",
+        "phpunit/php-timer": "1.0.8",
+        "fzaninotto/faker": "^1.6"
+    },
+    "authors": [
+        {
+            "name": "sentiq22",
+            "email": "sentiq22@gmail.com"
+        }
+    ]
+}
