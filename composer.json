@@ -4,7 +4,8 @@
     "require": {
         "twig/twig": "1.26.1",
         "phpunit/php-timer": "1.0.8",
-        "fzaninotto/faker": "^1.6"
+        "fzaninotto/faker": "^1.6",
+        "cocur/slugify": "^2.3"
     },
     "authors": [
         {
